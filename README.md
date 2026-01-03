@@ -1,4 +1,4 @@
-# Auto sortint
+# Auto sorting
 Simple script for sorting downloaded files by their extension 
 ## Features
 - Very simple so easy for improvement 
@@ -7,4 +7,6 @@ Simple script for sorting downloaded files by their extension
 - Python 3.10 or higher 
 ## Installation 
 ```bash
-git clone 
+git clone https://github.com/matgo1/downloads-auto-sort
+python main.py
+```
