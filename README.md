@@ -1,5 +1,5 @@
 # Auto sorting
-Simple script for sorting downloaded files by their extension 
+Simple script for sorting downloaded files by their extension.
 ## Features
 - Very simple so easy for improvement 
 - Can be overwritten for needs you have
